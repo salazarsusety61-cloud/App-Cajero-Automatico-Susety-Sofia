@@ -1,0 +1,16 @@
+[
+    {
+        "fecha": "19/11/2026 20:43:44",
+        "cuenta": "000001",
+        "tipo": "Deposito inicial",
+        "monto": 1000000.0,
+        "destino": null
+    },
+    {
+        "fecha": "19/11/2026 21:06:45",
+        "cuenta": "000001",
+        "tipo": "Deposito",
+        "monto": 200000.0,
+        "destino": null
+    }
+]
